@@ -1,0 +1,220 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+hr{
+    width: 10%;
+    color: #cdbaba;
+    border-style: dotted;
+    border-top: 2px;
+    border-width: 10px;
+    border-left: 0px;
+    border-right: 0px;
+    margin: 40px auto 0px auto;
+}
+
+.heading{
+    font-size: 3rem;
+    font-family: 'Dancing Script', cursive;
+    padding: 20px;
+    text-align: left;
+    padding-bottom: 20px;
+}
+
+.container {
+    background-image: url(alin-andersen-f0SgAs27BYI-unsplash.jpg);
+    height: 500px;
+    width: 100%;
+    background-position: center;
+    background-size: cover;
+    /* opacity: 1%; */
+
+}
+
+.bio {color:#fbfbfb;
+    padding-top: 79px;
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Sacramento', cursive;
+    
+}
+
+.name-heading {margin-top:15px;
+    font-size: 5rem;
+    color: #f9f4c8;
+    text-align: center;
+}
+
+p {
+   color: #ffeb3b;
+    font-size: 3rem;
+    text-align: center;
+}
+
+.dp{
+    height: 124px;
+    width: 133px;
+    padding:40px;
+    display:block;
+    margin:auto;
+    border-radius: 105px;
+}
+.greet-description{
+    font-size: 3rem;
+    font-family: 'Dancing Script', cursive;
+    text-align:center;
+    color:#eba2a2;
+    /* font-family: 'Sacramento', cursive; */  
+}
+
+h3{
+   color: #ff5722;
+}
+
+.middle-container{
+    font-size:3rem;
+}
+.skills{
+    font-family: 'Dancing Script', cursive;
+    padding-top: 50px;
+    text-align:center;
+    
+}
+
+.skill-1{
+    width: 80%;
+    text-align: left;
+    /* border: 2px solid; */
+    margin:auto;
+    margin-top: 50px;
+    
+}
+
+.skill-1 img{
+    width: 25%;
+    float: left;
+    margin-right: 20px;
+    border-radius: 90px;
+}
+
+.middle-description{
+    text-align: left;
+    font-family: 'Dancing Script', cursive;
+    font-size: 1.2rem;
+    color: #9b9987;
+}
+
+.skill-2{
+    /* height: 30vh; */
+    /* border: 2px solid; */
+    /* margin-top: 40px; */
+    width: 80%;
+    margin: 40px auto 40px auto;
+}
+
+.skill-2 img{
+    width: 20%;
+    float: right;
+    border-radius: 100px;
+    margin-left: 25px;
+}
+
+.heading-2{
+    color:cornflowerblue;
+    font-size: 3rem;
+    font-family: 'Dancing Script', cursive;
+    padding: 20px;
+    text-align: right;
+    padding-bottom: 20px;
+}
+.second-skill{
+    text-align: right;
+    font-family: 'Dancing Script', cursive;
+    font-size: 1.2rem;
+}
+
+.middle2-description{
+    text-align: right;
+    font-family: 'Dancing Script', cursive;
+   color: #9b9987;
+    font-size: 1.2rem;
+}
+.hr2{
+    
+    width: 10%;
+    color: #cdbaba;
+    border-style: dotted;
+    border-top: 2px;
+    border-width: 10px;
+    border-left: 0px;
+    border-right: 0px;
+    margin: 70px auto 0px auto;
+}
+
+
+.bottom-container{
+    /* border:2px solid ; */
+    margin-top:60px;
+    text-align:center;
+}
+
+.bottom-container h4{
+    color:cornflowerblue;
+    font-size: 3rem;
+    font-family: 'Dancing Script', cursive;
+}
+
+.bottom-container p{
+    font-size: 2rem;
+    
+    text-align: center;
+    color:rgb(141 158 161);
+
+}
+
+    .btn {
+        width:20%;
+        margin:20px auto 0px auto;
+        background: #e8c1f5;
+        background-image: -webkit-linear-gradient(top, #e8c1f5, #1c99bf);
+        background-image: -moz-linear-gradient(top, #e8c1f5, #1c99bf);
+        background-image: -ms-linear-gradient(top, #e8c1f5, #1c99bf);
+        background-image: -o-linear-gradient(top, #e8c1f5, #1c99bf);
+        background-image: linear-gradient(to bottom, #e8c1f5, #1c99bf);
+        -webkit-border-radius: 19;
+        -moz-border-radius: 19;
+        border-radius: 19px;
+        text-shadow: 0px 1px 3px #666666;
+        -webkit-box-shadow: 4px 4px 7px #666666;
+        -moz-box-shadow: 4px 4px 7px #666666;
+        box-shadow: 4px 4px 7px #666666;
+        font-family: Courier New;
+        color: #fcf7fc;
+        font-size: 1rem;
+        padding: 10px 0px 10px 0px;
+        text-decoration: none;
+      }
+      
+      .btn:hover {
+        background: #cf3673;
+        background-image: -webkit-linear-gradient(top, #cf3673, #d934b8);
+        background-image: -moz-linear-gradient(top, #cf3673, #d934b8);
+        background-image: -ms-linear-gradient(top, #cf3673, #d934b8);
+        background-image: -o-linear-gradient(top, #cf3673, #d934b8);
+        background-image: linear-gradient(to bottom, #cf3673, #d934b8);
+        text-decoration: none;
+      }
+
+      .end{
+        background-color:#50c5e9;
+        text-align :center;
+        margin-top:40px;
+      }
+      .links{
+        font-size:2rem;
+        font-family: 'Dancing Script', cursive;
+      }
+      .end p{
+        color:#393885;
+        font-size:1rem;
+      }

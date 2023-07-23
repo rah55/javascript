@@ -1,0 +1,138 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+#navigation{
+    
+    
+    height: 657px;
+    background-image: url(engineers.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+   
+   
+}
+.nav-img{
+    border-radius: 100%;
+}
+.nav-content{
+    color: rgb(214, 94, 94);
+    font-size: 1.5rem;
+}
+.nav-link {
+    color:cornsilk;
+    font-weight: bolder;
+    font-family: 'Montserrat';
+}
+.nav-link:hover{
+    color:rgb(219, 185, 46);
+    
+}
+.quality{
+    padding-left: 5rem;
+    padding-right: 5rem;
+    text-align: center;
+    
+    
+   
+}
+.heading-1-quality{
+    margin-top: 18rem;
+    margin-bottom: 2rem;
+    color:whitesmoke;
+    font-weight: bolder;
+    
+
+}
+
+/* services */
+#services{color:blue;
+    margin-top: 10rem;
+    text-align: center;
+}
+.icon-images{
+    height: 70px;
+    width:100px;
+    border-radius:100%
+}
+h1{
+    font-family: 'Montserrat';
+    font-weight: bolder;
+    margin-top:5rem;
+    margin-bottom:10rem;
+
+}
+
+h5{
+    color: blue;
+    font-family: 'Montserrat';
+    
+    font-weight: bolder;
+}
+p,h6, h4,label{
+    
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: bold;
+}
+/* about us section */
+#about-us{
+    color:white;
+    background-color: #2e5ddf;
+    margin-top: 10rem;
+}
+.rahul-img{
+    height: 20rem;
+    width:20rem;
+    border-radius: 50%;
+}
+
+/* gallery section */
+#gallery{
+    color: blue;
+    text-align: center;
+    margin-top:10rem;
+    
+
+}
+
+.machine-img{ 
+    height: 15rem;
+    width:15rem;
+border-radius: 10%;
+}
+
+
+/* get in touch section */
+#git{
+    color:white;
+    background-color: #2e5ddf;
+    text-align:center;
+    padding:5rem;
+    margin-top:10rem;
+    
+    
+}
+footer{
+    color: blue;
+}
+.icons{
+    color:blue;
+    margin:1rem;
+}
+.icons:hover{
+    color:pink;
+}
+@media only screen and (max-width: 600px) {
+    .quality{
+        padding-left: 3rem;
+        padding-right: 3rem;
+        /* text-align: center; */
+        
+        
+        
+    }
+    .heading-1-quality{
+        margin-top:2rem;
+    }
+}

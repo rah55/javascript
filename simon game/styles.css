@@ -1,0 +1,47 @@
+body{
+    margin:0;
+    padding:0;
+}
+#box{
+    margin-top:10rem;
+    text-align: center;
+}
+h1{
+    font-size: 3rem;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+#red{
+    background-color: red
+    ;
+    
+}
+#blue{
+    background-color: blue;
+}
+#green{
+    background-color: green;
+}
+#yellow{
+    background-color: yellow;
+}
+h1{
+    text-align:center;
+    font-size: xx-large;
+    font-weight: bolder;;
+}
+.btn{
+    margin:1rem;
+    height:10rem;
+    width: 10rem;
+    border-radius: 5px;;
+}
+
+.press{
+    opacity:0.5;
+    
+}
+
+.gameover{
+    background-color: red;
+}
