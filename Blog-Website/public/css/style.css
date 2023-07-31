@@ -1,0 +1,14 @@
+body{
+    margin:0px;
+    padding:0px;
+}
+.td{
+    text-decoration:none;
+}
+footer {
+    color:white;
+    background-color: aqua;
+    margin:0px;
+    padding:2rem;
+    text-align:center;
+}
